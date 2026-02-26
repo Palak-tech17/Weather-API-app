@@ -1,15 +1,27 @@
-# Weather App
+ # Weather API Application (Python)
 
-This is a simple weather application built using Python.
+A simple Python application that fetches real-time weather data using a weather API and displays key information such as temperature and weather conditions.
 
 ## Features
-- Shows current temperature
-- Shows city weather
-- Uses API
+• Retrieves live weather data via API integration  
+• Displays temperature and weather conditions  
+• Demonstrates API requests and JSON data handling  
+
+## Technologies Used
+• Python  
+• Requests Library  
+• Weather API  
+• JSON Data Parsing  
 
 ## How to Run
-1. Install Python
-2. Run main.py
 
-## Author
-Palak Singh
+1. Install required dependencies:
+pip install requests
+
+2. Run the Python file:
+python weather.py
+
+## Future Improvements
+• Add error handling for invalid city names  
+• Display additional weather details (humidity, wind, etc.)  
+• Build GUI or web interface  
