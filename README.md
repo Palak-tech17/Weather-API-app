@@ -9,7 +9,7 @@ This is a simple weather application built using Python.
 
 ## How to Run
 1. Install Python
-2. Run ex.py
+2. Run main.py
 
 ## Author
 Palak Singh
